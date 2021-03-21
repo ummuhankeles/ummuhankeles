@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Ümmühan 👋
+I'm a computer engineering student at Karabük University :woman_technologist:
+
+🌱 I’m currently learning **Web Development**.
 
 <!--
 **ummuhankeles/ummuhankeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
