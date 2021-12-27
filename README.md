@@ -1,10 +1,26 @@
 ### Hi there, I'm Ümmühan 👋
-I'm a computer engineering student at Karabük University :woman_technologist:
+
+<img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" >
+
+🌱 I'm a computer engineering student at Karabük University :woman_technologist:
 
 🌱 I’m currently learning **Web Development**.
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=black&link=link)](https://ummuhankeles.medium.com/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=blue&link=link)](https://linkedin.com/in/ümmühan-keleş-754797199/)
+## 💬 Reach out to me
+
+[<img  width="40" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />](https://www.linkedin.com/in/ummuhankeles/)
+[<img  width="40" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />](https://ummuhankeles.medium.com/)
+
+<br />
+<br />
+
+## :bulb: Github Stats
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=ummuhankeles&show_icons=true&theme=tokyonight)
+
+## :bulb: Most Use Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummuhankeles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ummuhankeles/ummuhankeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
