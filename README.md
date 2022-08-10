@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" >
 
-🌱 I'm a software developer :woman_technologist:
+🌱 I'm a Frontend Developer :woman_technologist:
 
-🌱 I’m currently learning **Web Development**.
+🌱 I’m currently learning frontend technologies.
 
 ## 💬 Reach out to me
 
