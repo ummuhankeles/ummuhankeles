@@ -10,7 +10,6 @@
 
 [<img  width="40" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />](https://www.linkedin.com/in/ummuhankeles/)
 [<img  width="40" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />](https://ummuhankeles.medium.com/)
-[<img  width="40" src="https://unpkg.com/simple-icons@v4/icons/bitbucket.svg" align="left" />](https://bitbucket.org/dashboard/overview)
 
 <br />
 <br />
@@ -22,6 +21,7 @@
  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="48" height="48"/>
  <img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img align="left" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
  <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img align="left" src="https://img.icons8.com/color/48/bootstrap.png"/>
